@@ -13,4 +13,7 @@ This is a lightweight search engine for only shopify stores, this algorithm inpu
 
 <!-- https://user-images.githubusercontent.com/95959056/208896532-3d58c3a5-e194-4302-b886-5e12469f748d.mp4 -->
 
-![shopify_search_gif](https://user-images.githubusercontent.com/95959056/208896694-740c696b-7e56-425a-8a7f-c6fbd7558335.gif)
+<!-- ![shopify_search_gif](https://user-images.githubusercontent.com/95959056/208896694-740c696b-7e56-425a-8a7f-c6fbd7558335.gif) -->
+
+
+![shopify_search](https://user-images.githubusercontent.com/95959056/208897341-8ce98dea-b561-4fa2-ad52-3c50a54738d2.gif)
