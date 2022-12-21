@@ -50,24 +50,17 @@ class Crawler:
         products_name = [key["product_name"] for key in self.boutique_products]
         products_price = [key["product_price"] for key in self.boutique_products]
 
-        end = False
-
         search = input("\nWhat product are you looking for? ")
 
         word_pattern = re.compile(r"[a-z]+\s[a-z]+")
         word_match = word_pattern.search(search)
-
-        # To end the loop
-        while not end:
-            if search == "q" or search == "quit":
-                return True
 
         if word_match:
             search = search.split()
 
             pattern = re.compile(r"""(
             [A-Za-z\s]*                             # Any word before the search word
-            ({search1}*\s?[search2]*)               # The search containing two or more words
+            ({search1}+\s?[search2]*)               # The search containing two or more words
             [A-Za-z\s]*                             # Any word after the search word
             )""".format(search1=search[0], search2=search[1]), re.VERBOSE | re.I)
 
