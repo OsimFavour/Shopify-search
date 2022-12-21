@@ -16,6 +16,8 @@ This is a lightweight search engine for only shopify stores, this algorithm inpu
 
 # Language and Library
 
--Python
+- Python
+- Requests
+- Regular Expression Lib. for Python
 
 
