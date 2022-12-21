@@ -11,3 +11,5 @@ This is a lightweight search engine for only shopify stores, this algorithm inpu
 
 # How it Works
 
+https://user-images.githubusercontent.com/95959056/208896532-3d58c3a5-e194-4302-b886-5e12469f748d.mp4
+
