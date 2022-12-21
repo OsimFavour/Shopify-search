@@ -37,9 +37,10 @@ for page in range(1, 25):
     except TypeError:
         pass
     data = web_store.search()
-    try:
-        for s in data:
-            print(s)
-    except TypeError:
-        break
+
+    for s in data:
+        print(s)
+
+
+    
 
