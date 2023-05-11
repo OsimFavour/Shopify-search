@@ -29,7 +29,7 @@ To use the Shopify Search Engine, follow these steps:
 - Contributions to The `Shopify-search` are welcome! If you find a bug or have an idea for a new feature, please create a pull request with your changes
 
 # License 
-- This project is licensed under the [MIT License](LICENSE). See the LICENSE file for more information.
+- This project is licensed under the [MIT License](LICENSE). See the `LICENSE` file for more information.
 
 
 
