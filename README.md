@@ -22,3 +22,9 @@ This is a lightweight search engine for only shopify stores, this algorithm inpu
 - Regular Expression Lib. for Python
 
 
+# Inspiration
+
+Picture the experience of searching on Google, Youtube or Facebook - inputting a few words and instantly accessing an endless stream of relevant content, including those you never knew you needed. That same experience imspired me to create a Shopify search engine. As a developer, I recognized the immense value of a search engine tailored for e-commerce business. And with the little resources I had, I thought that would be cool to build one myself. It's lightweight and not as sophisticated as the companies like Google and Youtube have theirs built but it delivers fast, reliable and accurate search results. 
+
+
+
