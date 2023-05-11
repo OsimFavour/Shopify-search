@@ -31,8 +31,6 @@ To use the Shopify Search Engine, follow these steps:
 # License 
 - This project is licensed under the [MIT License](LICENSE). See the LICENSE file for more information.
 
-# Contact
-- If you have any question or concerns about the Shopify Search Engine, please contact me at [famos204@gmail.com](famos204@gmail.com). Thank you for using the Shopify Search Engine!
 
 
 
