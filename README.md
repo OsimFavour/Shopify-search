@@ -28,6 +28,12 @@ Please note that the Shopify Search Engine can only search for products that are
 # Contributing
 Contributions to The `Shopify-search` are welcome! If you find a bug or have an idea for a new feature, please create a pull request with your changes
 
+# License 
+- This project is licensed under the [MIT License](LICENSE). See the LICENSE file for more information.
+
+# Contact
+If you have any question or concerns about the Shopify Search Engine, please contact me at [famos204@gmail.com]. Thank you for using the Shopify Search Engine!
+
 
 
 
