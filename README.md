@@ -19,7 +19,7 @@ This is a lightweight search engine for only shopify stores, this algorithm inpu
 
 - Python
 - Requests
-- Regular Expression Lib. for Python
+- Regular Ex Lib. for Python
 
 
 # Inspiration
