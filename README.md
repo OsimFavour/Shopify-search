@@ -20,19 +20,19 @@ To use the Shopify Search Engine, follow these steps:
 
 
 # Usage
-To use the Shopify Search Engine, simply enter the name of the shopify store first and then input the product you're looking for and hit enter. The program will then scrape the Shopify store's database and return a list of relevant search results.
+- To use the Shopify Search Engine, simply enter the name of the shopify store first and then input the product you're looking for and hit enter. The program will then scrape the Shopify store's database and return a list of relevant search results.
 
 # Limitations
-Please note that the Shopify Search Engine can only search for products that are listed on the Shopify store's database. Additionally, the program is highly sensitive to spelling errors.
+- Please note that the Shopify Search Engine can only search for products that are listed on the Shopify store's database. Additionally, the program is highly sensitive to spelling errors.
 
 # Contributing
-Contributions to The `Shopify-search` are welcome! If you find a bug or have an idea for a new feature, please create a pull request with your changes
+- Contributions to The `Shopify-search` are welcome! If you find a bug or have an idea for a new feature, please create a pull request with your changes
 
 # License 
 - This project is licensed under the [MIT License](LICENSE). See the LICENSE file for more information.
 
 # Contact
-If you have any question or concerns about the Shopify Search Engine, please contact me at [famos204@gmail.com]. Thank you for using the Shopify Search Engine!
+- If you have any question or concerns about the Shopify Search Engine, please contact me at [famos204@gmail.com](famos204@gmail.com). Thank you for using the Shopify Search Engine!
 
 
 
